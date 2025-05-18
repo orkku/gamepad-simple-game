@@ -1,4 +1,4 @@
-# Gamepad API (gamepad simple game)
+# Gamepad Simple Game
 
 ## Some important notes
 
